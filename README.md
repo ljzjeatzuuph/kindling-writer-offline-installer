@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Writing+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 kindling Writer Free Installer** — kindling Writer is a distraction-free writing application designed to help writers get their words on the page. Works without internet access, no account required. Full offline installation.
+**💻 kindling Writer Free Installer** — kindling Writer is a distraction-free writing application focused on simplicity. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About kindling Writer
 
-kindling Writer is a distraction-free writing application designed to help writers get their words on the page. With a clean, minimal interface and focus mode that hides everything except your text, kindling Writer removes digital distractions so writers can enter a flow state. Features include customizable backgrounds, word count goals, and export to common formats.
+kindling Writer is a distraction-free writing application focused on simplicity. It provides a minimal interface with word count tracking, focus mode, and export options — designed to remove barriers between the writer and the blank page.
 
 ---
 
 ## ❌ Problem: kindling Writer is hard to access
 
-- **Feature Limitations** — Minimal feature set by design; not for complex project management
-- **Platform Availability** — Limited platform support compared to major writing apps
-- **Organization Tools** — Basic file organization without advanced project management
-- **Cloud Sync** — Sync features may require additional configuration
+- **Limited Features** — Deliberately minimal; missing advanced long-form writing organization
+- **Competition** — Many free distraction-free writers (FocusWriter, WriteMonkey) offer similar simplicity
+- **No Version History** — Does not track document revisions internally
+- **Platform Coverage** — Not available on all major platforms
 
 ---
 
@@ -121,7 +121,7 @@ kindling Writer is a distraction-free writing application designed to help write
 
 ---
 
-**kindling Writer Free Installer** — kindling Writer is a distraction-free writing application designed to help writers get their words on the page. Install without internet connection today!
+**kindling Writer Free Installer** — kindling Writer is a distraction-free writing application focused on simplicity. Install without internet connection today!
 
 <div align="center">
 
